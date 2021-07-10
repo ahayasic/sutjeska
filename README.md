@@ -1,6 +1,7 @@
 # Sutjeska
 
 **Sutjeska é uma estrutura de diretórios de pacotes Python cuja instalação não é necessária**. Portanto, trata-se de pacotes simples e, no geral, de uso pessoal.
+> Para pacotes instaláveis, veja [Stonehenge](https://github.com/ahayasic/stonehenge)
 
 ## Guia de Uso
 
@@ -47,15 +48,10 @@ A estrutura de diretórios Sutjeska modela todos os arquivos e diretórios neces
 
 Sutjeska é uma referência à canção [Sutjeska](https://www.youtube.com/watch?v=QfObaecWMCg) da banda Fresno. A canção por sua vez leva o nome do Parque Nacional de Sutjeska estabelecido em 1962 e próximo ao município de Foča (lê-se FÓTCHA), na Republika Srpska, uma das duas entidades politicamente autônomas da Bósnia-Herzegovina. É o maior parque nacional do país e ficou famoso por ser o palco da Batalha de Sutjeska, em 1943, durante a 2ª Guerra Mundial.
 
-# Licenciamento
-
-
+# Licença
 
 <p align='center'>
-    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-	    <img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-    </a>
-    <br />Este obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
+	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+		<img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+	</a><br />Este trabalho de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ahayasic/sutjeska/" property="cc:attributionName" rel="cc:attributionURL">Alisson Hayasi da Costa</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
 </p>
-
-
